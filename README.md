@@ -1,4 +1,4 @@
-
+ 
 ![IIM](Image.jpeg)
 
 # TP — Prompt Engineering appliqué à l’AI Marketing Strategy
