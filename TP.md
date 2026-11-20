@@ -28,7 +28,7 @@ Le rapport PDF signale notamment une baisse du chiffre d’affaires en février,
 
 Rôles suggérés : Prompt Engineer, Data Analyst, Marketing Strategist, Responsable de la vérification.
 
-## Étape 1 — Comprendre le contexte (20 min)
+## Étape 1 — Comprendre le contexte 
 
 À partir du PDF, identifiez :
 - les tendances du chiffre d’affaires ;
@@ -39,7 +39,7 @@ Rôles suggérés : Prompt Engineer, Data Analyst, Marketing Strategist, Respons
 
 **Livrable :** cinq enjeux marketing, chacun associé à un constat, une preuve dans le rapport, une question à approfondir.
 
-## Étape 2 — Zero-shot (25 min)
+## Étape 2 — Zero-shot 
 
 Utilisez le prompt 1 du fichier `prompts/prompts.md`.
 
@@ -47,7 +47,7 @@ Comparez la réponse de l’IA avec le PDF. Relevez les faits correctement extra
 
 **Question :** pourquoi une demande structurée est-elle plus utile que « Analyse ce rapport » ?
 
-## Étape 3 — Role prompting et contextualisation (30 min)
+## Étape 3 — Role prompting et contextualisation 
 
 Comparez un prompt sans rôle et un prompt demandant à l’IA d’agir comme un directeur conseil en AI Marketing Strategy.
 
@@ -70,7 +70,7 @@ Fournissez à l’IA des exemples de raisonnement au format :
 
 Appliquez ce format à au moins cinq constats du cas.
 
-## Étape 5 — Analyse du classeur Excel (45 min)
+## Étape 5 — Analyse du classeur Excel 
 
 Sur la feuille de données, examinez les variables disponibles, leur type, les valeurs manquantes et les éventuelles anomalies.
 
@@ -89,7 +89,7 @@ Puis proposez une segmentation exploratoire fondée sur des variables calculées
 
 **Attention :** ne confondez pas le « temps d’achat » du classeur et le « temps passé sur le site » du rapport PDF sans vérifier leurs définitions. Une segmentation proposée par l’IA n’est pas statistiquement validée tant que les calculs et critères n’ont pas été contrôlés.
 
-## Étape 6 — Prompt Template (30 min)
+## Étape 6 — Prompt Template 
 
 Créez un template réutilisable pour analyser une catégorie. Il doit comporter des variables comme :
 - `{{nom_categorie}}`
@@ -101,7 +101,7 @@ Créez un template réutilisable pour analyser une catégorie. Il doit comporter
 
 Testez-le sur deux catégories et comparez les sorties.
 
-## Étape 7 — Plan marketing (35 min)
+## Étape 7 — Plan marketing 
 
 Construisez un plan d’action sur trois mois autour de trois priorités :
 1. améliorer la conversion ;
@@ -112,7 +112,7 @@ Pour chaque action : problème ciblé, cible, action, canal, rôle de l’IA, KP
 
 Ne produisez pas de prévisions chiffrées sans données permettant de les justifier.
 
-## Étape 8 — Défi critique (25 min)
+## Étape 8 — Défi critique 
 
 Analysez cette affirmation : « Le chiffre d’affaires diminue parce que les produits high-tech ne sont plus vendus. »
 
