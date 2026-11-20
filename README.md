@@ -5,6 +5,16 @@
 **Cas d’étude :** Le Grand Marché  
 **Livrable :** diagnostic marketing, segmentation exploratoire et plan d’action sur trois mois.
 
+
+Projet pédagogique de AI CONTENT & DATA
+
+Pôle Léonard de Vinci : Campus de l’Arche
+
+Classe : A4 AIMSA4 EDIA DATA
+
+https://www.iim.fr/cursus/mastere-ai-marketing-strategy/
+
+
 ## Objectif du projet
 
 Apprendre à concevoir, tester, améliorer et évaluer des prompts afin de transformer des documents et données marketing en analyses vérifiables et recommandations stratégiques.
