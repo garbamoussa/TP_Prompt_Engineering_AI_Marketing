@@ -1,3 +1,5 @@
+
+![IIM](Image 20-11-2026 at 08.31.jpeg)
 # TP — Prompt Engineering appliqué à l’AI Marketing Strategy
 
 **Niveau :** Mastère AI Marketing Strategy  
